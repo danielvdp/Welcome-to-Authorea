@@ -9,3 +9,4 @@ subsection_Detailed_and_specific_conceptual__.tex
 section_What_is_non_goal__.tex
 subsection_Description_of_non_goal__.tex
 subsection_No_goal_In_an__.tex
+subsection_Rich_models_The_model__.tex
