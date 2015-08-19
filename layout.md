@@ -12,3 +12,4 @@ subsection_No_goal_In_an__.tex
 subsection_Rich_models_The_model__.tex
 subsection_Simplification_and_abstraction_Of__.tex
 subsection_Pattern_detection_heuristics_Given__.tex
+subsection_Parallel_unsupervised_learning_methods__.tex
