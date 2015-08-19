@@ -6,3 +6,4 @@ subsection_Harnessing_the_knowledge_creation__.tex
 section_Conceptual_modelling_subsection_What__.tex
 subsection_What_is_a_conceptual__.tex
 subsection_Detailed_and_specific_conceptual__.tex
+section_What_is_non_goal__.tex
