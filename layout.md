@@ -7,3 +7,4 @@ section_Conceptual_modelling_subsection_What__.tex
 subsection_What_is_a_conceptual__.tex
 subsection_Detailed_and_specific_conceptual__.tex
 section_What_is_non_goal__.tex
+subsection_Description_of_non_goal__.tex
